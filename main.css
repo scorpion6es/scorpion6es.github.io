@@ -1,0 +1,88 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+p {
+
+}
+
+.header {
+	background: black;
+}
+
+
+.container {
+	margin: 0 auto;
+	width: 1170px;
+	height: 1000px;
+}
+
+.wrapper {
+	display: flex;
+}
+
+
+.offer {
+	color: white;
+	margin-top: 300px;
+}
+
+
+.title {
+	font-size: 80px;
+	font-weight: 900;
+
+}
+
+.intro {
+	font-size: 30px;
+	font-weight: 400;
+	color: white;
+}
+
+.red {
+	color: #f24841;
+}
+
+
+
+.phone {
+	margin-top: 20px;
+	background: #f24841;
+	width: 200px;
+	display: block;
+	height: 40px;
+	color: white;
+	font-size: 20px;
+	font-weight: 400;
+	text-align: center;
+	text-decoration: none;
+}
+
+
+
+
+
+.p1 {
+	font-size: 45px;
+	font-weight: 900;
+	width: 600px;
+	margin-top: 200px;
+
+}
+
+.p2 {
+	font-weight: 400;
+	font-size: 30px;
+	width: 500px;
+		margin-top: 200px;
+
+
+}
+
+.content{
+	display: flex;
+}
+
+
